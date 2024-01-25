@@ -1,0 +1,23 @@
+student{
+    color: rgba(43, 6, 250, 0.938);
+    font-size: large;
+    font-weight: 500;
+    padding: 24px;
+    margin: 12px;
+    background-color: #d5e9bb;
+}
+heading{
+    font-size: 26px;
+    text-align: center;
+    /* font-size: larger; */
+    font-weight: 800;
+    color: rgb(248, 10, 10);
+}
+rollno{
+    display: block;
+    margin: 12px 4px;
+}
+emailId{
+    display: block;
+    margin: 10px 4px;
+}
