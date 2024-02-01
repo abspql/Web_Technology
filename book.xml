@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./lib.xsl"?>
+
+<booklibrary>
+    <book>
+        <bookname>XML</bookname>
+        <price>100</price>
+        <author>Abhi</author>
+        <publisher>TMH</publisher>
+    </book>
+</booklibrary>
